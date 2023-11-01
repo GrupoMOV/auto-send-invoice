@@ -1,0 +1,12 @@
+{
+  "name": "read-pdf",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-xlsx": "^0.23.0",
+    "nodemailer": "^6.9.7",
+    "pdfjs-dist": "^3.11.174"
+  }
+}
